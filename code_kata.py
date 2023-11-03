@@ -20,3 +20,14 @@ def get_initials(name):
     
 print(get_initials('Jordan Xiao'))
 print(get_initials('jordan xiao'))
+
+# "Troy McColly Tolhurst" => Troy M. Tolhurst"
+# "Ronaldo Marie De Santos Naz" => "Ronaldo M. D. S. Naz"
+# 1. split it up
+# 2. find the middle name
+# 3. only keep the first letter of it
+# 4. join them all back with a '.'
+#
+#
+#
+#
